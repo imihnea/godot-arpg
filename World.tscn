@@ -8,8 +8,6 @@
 [node name="Player" parent="." instance=ExtResource( 2 )]
 position = Vector2( 144, 72 )
 
-[node name="StaticBody2D" type="StaticBody2D" parent="."]
-
 [node name="Bush" parent="." instance=ExtResource( 1 )]
 position = Vector2( 64, 56 )
 
